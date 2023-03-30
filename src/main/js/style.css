@@ -23,3 +23,6 @@
 .sanity-check {
   width: 400px
 }
+
+
+@import '~@progress/kendo-theme-default/dist/all.scss';
